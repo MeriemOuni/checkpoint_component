@@ -1,0 +1,30 @@
+
+
+
+.App {
+  text-align: center;
+  display: flex;
+  
+  
+  
+}
+
+.picture {
+  padding: 30px;
+  background-color: teal;
+}
+
+.info {
+  display: block;
+  margin: 150px 150px;
+  background-color:rgb(161, 160, 160);
+  padding: 15px;
+  border-radius: 10px; 
+  box-shadow: 10px 10px rgb(104, 102, 102);
+}
+
+.profil {
+  width: 300px;
+  height: 300px;
+  margin: 150px 150px;
+}
